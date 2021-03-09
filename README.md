@@ -1,4 +1,5 @@
 # rickandmorty
+enlace: https://rickandmortyjhon.netlify.app/
 
 ## Project setup
 ```
